@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Reading notes](README.md)
+* [Reading books](README.md)
 * [Contents](summary.md)
 
 ## Reading Notes
