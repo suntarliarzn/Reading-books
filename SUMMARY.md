@@ -2,7 +2,6 @@
 
 * [Reading books](README.md)
 * [Contents](summary.md)
-* [Untitled](untitled.md)
 
 ## Reading Notes
 
