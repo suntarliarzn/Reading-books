@@ -12,4 +12,6 @@
 
 * [2.1 Philosophy 哲学](du-hou-gan-reflections/01philosophy-zhe-xue/README.md)
   * [致良知，事上练——《知行合一王阳明》读后感](du-hou-gan-reflections/01philosophy-zhe-xue/zhi-liang-zhi-shi-shang-lian-zhi-hang-he-yi-wang-yang-ming-du-hou-gan.md)
+* [2.0 Social Science](2.0-social-science/README.md)
+  * [Social Science and Math 社会科学与数学](2.0-social-science/social-science-and-math-she-hui-ke-xue-yu-shu-xue.md)
 
