@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Reading books](README.md)
+* [Hello World!](README.md)
 * [Contents](summary.md)
 
 ## 1.读书笔记 Reading Notes <a id="reading-notes"></a>
