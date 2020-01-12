@@ -7,6 +7,8 @@
 
 * [1.1 Philosophy 哲学](reading-notes/01philosophy-zhe-xue/README.md)
   * [1.1.001《知行合一王阳明》读书笔记](reading-notes/01philosophy-zhe-xue/zhi-hang-he-yi-wang-yang-ming.md)
+* [1.2 经济&商业 Economics&Bussiness](reading-notes/1.2-jing-ji-shang-ye-economicsbussiness/README.md)
+  * [1.2.001 人生每一刻皆是0到1---《从0到1》读后感](reading-notes/1.2-jing-ji-shang-ye-economicsbussiness/1.2.001-ren-sheng-mei-yi-ke-jie-shi-0-dao-1-cong-0-dao-1-du-hou-gan.md)
 
 ## 2. 读后感 Reflections <a id="du-hou-gan-reflections"></a>
 
