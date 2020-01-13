@@ -1,4 +1,4 @@
 # 1.2 Economics&Bussiness 经济&商业
 
-[1.2.001 人生每一刻,皆是0到1---《从0到1》读后感](1.2.001-ren-sheng-mei-yi-ke-jie-shi-0-dao-1-cong-0-dao-1-du-hou-gan.md)
+[1.2.001 《从0~1，开启商业与未来的秘密》](2.2.001-cong-01-kai-qi-shang-ye-yu-wei-lai-de-mi-mi.md)
 
