@@ -11,6 +11,8 @@
   * [1.1.001《知行合一王阳明》读书笔记](reading-notes/01philosophy-zhe-xue/zhi-hang-he-yi-wang-yang-ming.md)
 * [1.2 Economics&Bussiness 经济&商业](reading-notes/1.2-jing-ji-shang-ye-economicsbussiness/README.md)
   * [1.2.001 《从0~1，开启商业与未来的秘密》](reading-notes/1.2-jing-ji-shang-ye-economicsbussiness/2.2.001-cong-01-kai-qi-shang-ye-yu-wei-lai-de-mi-mi.md)
+* [1.3 Novel&History 小说&历史](reading-notes/1.3-novelhistory-xiao-shuo-li-shi/README.md)
+  * [1.3 001《金瓶梅》（崇祯版）](reading-notes/1.3-novelhistory-xiao-shuo-li-shi/1.3-001-jin-ping-mei-chong-zhen-ban.md)
 
 ## 2. 读后感 Reflections <a id="du-hou-gan-reflections"></a>
 
