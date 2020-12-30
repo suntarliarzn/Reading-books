@@ -7,6 +7,8 @@
 
 * [1.0 Social Science 社会科学](reading-notes/1.0-social-science/README.md)
   * [1.0.001 斯坦福高效睡眠法](reading-notes/1.0-social-science/1.0.001-si-tan-fu-gao-xiao-shui-mian-fa.md)
+  * [1.0.002 事实](reading-notes/1.0-social-science/1.0.002-shi-shi.md)
+  * [Untitled](reading-notes/1.0-social-science/untitled.md)
 * [1.1 Philosophy 哲学](reading-notes/01philosophy-zhe-xue/README.md)
   * [1.1.001《知行合一王阳明》读书笔记](reading-notes/01philosophy-zhe-xue/zhi-hang-he-yi-wang-yang-ming.md)
 * [1.2 Economics&Bussiness 经济&商业](reading-notes/1.2-jing-ji-shang-ye-economicsbussiness/README.md)
