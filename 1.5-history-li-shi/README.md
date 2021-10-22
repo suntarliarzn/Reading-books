@@ -4,3 +4,6 @@
 [1.5.001-ren-lei-jian-shi-cong-dong-wu-dao-shang-di.md](1.5.001-ren-lei-jian-shi-cong-dong-wu-dao-shang-di.md)
 {% endcontent-ref %}
 
+{% content-ref url="1.5.002-wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen.md" %}
+[1.5.002-wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen.md](1.5.002-wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen.md)
+{% endcontent-ref %}
