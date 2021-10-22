@@ -1,8 +1,10 @@
 # 2.0 Social Science 社会科学
 
-{% page-ref page="2.0.001-shui-mian-shi-wei-le-geng-hao-di-qing-xing-si-tan-fu-gao-xiao-shui-mian-fa-du-hou-gan.md" %}
+{% content-ref url="2.0.001-shui-mian-shi-wei-le-geng-hao-di-qing-xing-si-tan-fu-gao-xiao-shui-mian-fa-du-hou-gan.md" %}
+[2.0.001-shui-mian-shi-wei-le-geng-hao-di-qing-xing-si-tan-fu-gao-xiao-shui-mian-fa-du-hou-gan.md](2.0.001-shui-mian-shi-wei-le-geng-hao-di-qing-xing-si-tan-fu-gao-xiao-shui-mian-fa-du-hou-gan.md)
+{% endcontent-ref %}
 
-{% page-ref page="2.0.001-shui-mian-shi-wei-le-geng-hao-di-qing-xing-si-tan-fu-gao-xiao-shui-mian-fa-du-hou-gan.md" %}
-
-
+{% content-ref url="2.0.001-shui-mian-shi-wei-le-geng-hao-di-qing-xing-si-tan-fu-gao-xiao-shui-mian-fa-du-hou-gan.md" %}
+[2.0.001-shui-mian-shi-wei-le-geng-hao-di-qing-xing-si-tan-fu-gao-xiao-shui-mian-fa-du-hou-gan.md](2.0.001-shui-mian-shi-wei-le-geng-hao-di-qing-xing-si-tan-fu-gao-xiao-shui-mian-fa-du-hou-gan.md)
+{% endcontent-ref %}
 
