@@ -22,7 +22,7 @@
 * [1.5 History 历史](1.5-history-li-shi/README.md)
   * [1.5.001 人类简史：从动物到上帝](1.5-history-li-shi/1.5.001-ren-lei-jian-shi-cong-dong-wu-dao-shang-di.md)
   * [1.5.002 未来简史：从智人到智神](1.5-history-li-shi/1.5.002-wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen.md)
-  * [1.5.003 人类命运大议题](1.5-history-li-shi/1.5.003-ren-lei-ming-yun-da-yi-ti.md)
+  * [1.5.003 今日简史：人类命运大议题](1.5-history-li-shi/1.5.003-jin-ri-jian-shi-ren-lei-ming-yun-da-yi-ti.md)
 
 ## 2. 读后感 Reflections <a href="du-hou-gan-reflections" id="du-hou-gan-reflections"></a>
 

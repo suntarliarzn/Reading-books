@@ -7,3 +7,7 @@
 {% content-ref url="1.5.002-wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen.md" %}
 [1.5.002-wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen.md](1.5.002-wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen.md)
 {% endcontent-ref %}
+
+{% content-ref url="1.5.003-jin-ri-jian-shi-ren-lei-ming-yun-da-yi-ti.md" %}
+[1.5.003-jin-ri-jian-shi-ren-lei-ming-yun-da-yi-ti.md](1.5.003-jin-ri-jian-shi-ren-lei-ming-yun-da-yi-ti.md)
+{% endcontent-ref %}
