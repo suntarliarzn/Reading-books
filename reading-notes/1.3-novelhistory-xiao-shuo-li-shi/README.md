@@ -4,3 +4,6 @@
 [1.3-001-jin-ping-mei-chong-zhen-ban.md](1.3-001-jin-ping-mei-chong-zhen-ban.md)
 {% endcontent-ref %}
 
+{% content-ref url="1.3.002-san-ti-quan-ji.md" %}
+[1.3.002-san-ti-quan-ji.md](1.3.002-san-ti-quan-ji.md)
+{% endcontent-ref %}
