@@ -16,6 +16,7 @@
   * [1.3.002 三体全集](reading-notes/1.3-novelhistory-xiao-shuo-li-shi/1.3.002-san-ti-quan-ji.md)
 * [1.4 Biography 传记](reading-notes/1.4-biography-chuan-ji/README.md)
   * [1.4.001 史蒂夫·乔布斯传](reading-notes/1.4-biography-chuan-ji/shi-di-fu-qiao-bu-si-chuan.md)
+  * [1.4.002 李光耀观天下（精装版)](reading-notes/1.4-biography-chuan-ji/1.4.002-li-guang-yao-guan-tian-xia-jing-zhuang-ban.md)
 
 ***
 
