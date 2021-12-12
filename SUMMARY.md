@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Hello World!](README.md)
-* [Contents](summary.md)
 
-## 1.读书笔记 Reading Notes <a href="reading-notes" id="reading-notes"></a>
+## 1.读书笔记 Reading Notes <a href="#reading-notes" id="reading-notes"></a>
 
 * [1.0 Social Science 社会科学](reading-notes/1.0-social-science/README.md)
   * [1.0.001 斯坦福高效睡眠法](reading-notes/1.0-social-science/1.0.001-si-tan-fu-gao-xiao-shui-mian-fa.md)
@@ -25,7 +24,7 @@
   * [1.5.002 未来简史：从智人到智神](1.5-history-li-shi/1.5.002-wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen.md)
   * [1.5.003 今日简史：人类命运大议题](1.5-history-li-shi/1.5.003-jin-ri-jian-shi-ren-lei-ming-yun-da-yi-ti.md)
 
-## 2. 读后感 Reflections <a href="du-hou-gan-reflections" id="du-hou-gan-reflections"></a>
+## 2. 读后感 Reflections <a href="#du-hou-gan-reflections" id="du-hou-gan-reflections"></a>
 
 * [2.0 Social Science 社会科学](du-hou-gan-reflections/2.0-social-science/README.md)
   * [2.0.000 Social Science and Math 社会科学与数学](du-hou-gan-reflections/2.0-social-science/social-science-and-math-she-hui-ke-xue-yu-shu-xue.md)
