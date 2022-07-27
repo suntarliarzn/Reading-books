@@ -11,3 +11,7 @@
 {% content-ref url="1.5.003-jin-ri-jian-shi-ren-lei-ming-yun-da-yi-ti.md" %}
 [1.5.003-jin-ri-jian-shi-ren-lei-ming-yun-da-yi-ti.md](1.5.003-jin-ri-jian-shi-ren-lei-ming-yun-da-yi-ti.md)
 {% endcontent-ref %}
+
+{% content-ref url="1.5.004-ou-zhou-wen-ming-shi-wu-jiang.md" %}
+[1.5.004-ou-zhou-wen-ming-shi-wu-jiang.md](1.5.004-ou-zhou-wen-ming-shi-wu-jiang.md)
+{% endcontent-ref %}
